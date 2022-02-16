@@ -1,5 +1,5 @@
 # WaxTablet
-Transcrição de trabalho de conclusão de curso de Ciências da Computação, que consiste de uma aplicação escrita em C que alia compactação de dados com esteganografia
+Aplicação escrita em C que alia compactação de dados com o algoritmo de Huffman Adaptativo com esteganografia LSB em imagens bitmap
 
 #### [Lista de Abreviaturas](abreviaturas.md)  
 #### [Introdução](introdução.md)
