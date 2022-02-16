@@ -1,5 +1,5 @@
 # WaxTablet
-Aplicação escrita em C que alia compactação de dados com o algoritmo de Huffman Adaptativo com esteganografia LSB em imagens bitmap
+Aplicação escrita em C que alia compactação de dados com o algoritmo de Huffman Adaptativo a esteganografia LSB em imagens bitmap
 
 #### [Lista de Abreviaturas](abreviaturas.md)  
 #### [Introdução](introdução.md)
